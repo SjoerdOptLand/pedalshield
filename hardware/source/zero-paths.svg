@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="-0.5 0.5 64 64"
+   enable-background="new -0.5 0.5 64 64"
+   xml:space="preserve"
+   sodipodi:docname="zero-paths.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11">
+	
+	
+	
+</defs><sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="16"
+   inkscape:cx="33.96875"
+   inkscape:cy="37.03125"
+   inkscape:window-width="2560"
+   inkscape:window-height="1373"
+   inkscape:window-x="2551"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<circle
+   fill="#ffffff"
+   cx="31.636543"
+   cy="32.472443"
+   id="circle2"
+   style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.455172;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.607287"
+   r="2.9146497" />
+<path
+   style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.47;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.578947"
+   d="m 31.600636,30.99314 c -0.535852,0.01786 -0.943533,0.445063 -0.92573,1.531015 0.0178,1.085953 0.364951,1.477608 0.934631,1.477608 0.56968,0 0.961335,-0.338248 0.961335,-1.486509 0,-1.148261 -0.434384,-1.539976 -0.970236,-1.522114 z"
+   id="path1224"
+   sodipodi:nodetypes="zsssz" /><path
+   style="fill:none;stroke:#ff0000;stroke-width:0.47;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.530364"
+   d="M 32.214822,31.286881 30.977548,33.5567"
+   id="path1904"
+   sodipodi:nodetypes="cc" /></svg>
